@@ -1,5 +1,4 @@
-
-# Estadística Computacional
+#  Estadística Computacional
 
 - Nombre: Javier Castillo Millán
 - CU: 169589
